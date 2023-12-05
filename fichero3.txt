@@ -1,4 +1,3 @@
 Esta es una linea creada en la rama verde
-Este fue un commit en la rama pricipal
 Esta linea se modifico en la rama rojo
-
+Para ver diferencias
